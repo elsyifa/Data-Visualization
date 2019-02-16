@@ -4,12 +4,14 @@ Data visualization is one of the important part. When you can analyze data but y
 
 In this section I will share about types of charts and when we use each those charts. 
 
-So, please find my presentations :
+So, please find my presentations about data visualisation:
 
-a. Data Visualization, 
+a. Data Visualization.pdf
 
-b. Data Visualization using Power BI, 
+b. Data Visualization using Power BI.pdf
 
-c. Data Visualization using Tableau (using dummy data), 
+c. Data Visualization using Tableau (using dummy data).pdf
 
-d. Data Visualization using YellowFin.
+d. Data Visualization using YellowFin.pdf
+
+All those files are uploaded in this repository
